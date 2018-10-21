@@ -1,0 +1,154 @@
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\PaymentDuration.dll.config
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\PaymentDuration.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\PaymentDuration.pdb
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Antlr3.Runtime.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\AspNet.ScriptManager.bootstrap.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\AspNet.ScriptManager.jQuery.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\EntityFramework.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\EntityFramework.SqlServer.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Core.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Cookies.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Facebook.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Google.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.OAuth.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Twitter.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.ScriptManager.WebForms.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Web.Infrastructure.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Newtonsoft.Json.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Oracle.ManagedDataAccess.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Owin.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\System.Web.Optimization.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\System.Web.Providers.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\WebGrease.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\System.Web.Optimization.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Antlr3.Runtime.pdb
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Newtonsoft.Json.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\EntityFramework.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\EntityFramework.SqlServer.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Core.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Facebook.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Cookies.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Google.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Twitter.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.OAuth.xml
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.dll
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.pdb
+D:\deni_data\TMI - PaymentDirations\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.csprojResolveAssemblyReference.cache
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\PaymentDuration.dll.config
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\PaymentDuration.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\PaymentDuration.pdb
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Antlr3.Runtime.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\AspNet.ScriptManager.jQuery.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\EntityFramework.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\EntityFramework.SqlServer.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Google.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Web.Infrastructure.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Newtonsoft.Json.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Owin.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\System.Web.Optimization.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\System.Web.Providers.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\WebGrease.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\System.Web.Optimization.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Antlr3.Runtime.pdb
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Newtonsoft.Json.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\EntityFramework.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\EntityFramework.SqlServer.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Google.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.dll
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.pdb
+D:\TMI Project\TMI - Payment\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.csprojResolveAssemblyReference.cache
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\PaymentDuration.dll.config
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\PaymentDuration.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\PaymentDuration.pdb
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Antlr3.Runtime.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\AspNet.ScriptManager.jQuery.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\EntityFramework.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\EntityFramework.SqlServer.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Google.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Web.Infrastructure.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Newtonsoft.Json.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Owin.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\System.Web.Optimization.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\System.Web.Providers.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\WebGrease.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\System.Web.Optimization.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Antlr3.Runtime.pdb
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Newtonsoft.Json.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\EntityFramework.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\EntityFramework.SqlServer.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Google.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TMI - Project\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.csprojResolveAssemblyReference.cache
+D:\TMI - Project\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.dll
+D:\TMI - Project\PaymentDuration\PaymentDuration\obj\Debug\PaymentDuration.pdb

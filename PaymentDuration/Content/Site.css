@@ -1,0 +1,235 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+
+
+.form-inline .form-control {
+    width: auto;
+}
+
+table .table th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tableMain, .tableSecondary {
+    width: 100%;
+}
+
+table.tableMain > thead > tr > th,
+table.tableMain > tbody > tr > td,
+table.tableSecondary > thead > tr > th,
+table.tableSecondary > tbody > tr > td {
+    border: 1px solid #cccccc;
+    vertical-align: middle;
+}
+
+table.tableMain > thead > tr > th,
+table.tableSecondary > thead > tr > th {
+    color: white;
+    background-color: #5f7fb8;
+    padding: 8px;
+    text-align: center;
+}
+
+button.btn-link,
+ul.pagination > li > a {
+    color: #5f7fb8;
+}
+
+table.tableMain > tbody > tr > td,
+table.tableSecondary > tbody > tr > td {
+    background-color: white;
+    padding: 4px;
+}
+
+table.tableListDetail > tbody > tr > th,
+table.tableListDetail > tbody > tr > td {
+    padding: 1px 2px;
+}
+
+.tableListDetail th {
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_desc:after {
+    opacity: 1 !important;
+}
+
+div.dataTables_wrapper > div.datatables-filter-right > #tablePaymentHeader_filter {
+    text-align: left;
+}
+
+ul.pagination > li > a {
+    padding: 6px 12px;
+}
+
+.column-amount > td {
+    text-align: right;
+}
+
+.modal-body .row {
+    margin: 0px;
+}
+
+.modal-lg {
+    width: 1000px;
+}
+
+.im-bar-title {
+    background-color: #6485c1;
+    height: 40px;
+    padding: 10px 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+    .im-bar-title > h3 {
+        font-weight: bold;
+        color: white;
+        font-family: Meiryo;
+        font-size: 20px;
+        margin: 0px;
+    }
+
+.im-row {
+    margin-left: -75px;
+    margin-right: -75px;
+}
+
+    .im-row .form-control {
+        height: 31px;
+        padding: 5px 10px;
+    }
+
+.im-section {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.im-section-error {
+    font-family: Meiryo;
+}
+
+.clear {
+    clear:left;
+    display:block;
+}
+
+input.btn-default {
+    padding: 5px;
+    background-color: white;
+    color: #222222;
+    border: none;
+}
+
+.note {
+    padding: 10px;
+}
+
+.im-bar-tools {
+    margin-top: -5px;
+    padding: 5px 10px;
+    background-color: #c2cee6;
+}
+
+.im-sidebar {
+    width: 200px;
+    position: fixed;
+    left: 0;
+    top:0;
+    height: 100%;
+    overflow: auto;
+    background-color: #022b39;
+    color: white;
+}
+
+.im-sidebar-nav {
+    list-style:none;
+    padding: 0px;
+}
+
+.im-sidebar-nav li {
+    text-indent: 20px;
+    line-height: 40px;
+    box-shadow: 0px 1px 1px rgba(255, 255, 255, 0.12)
+}
+
+.im-sidebar-nav li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+.im-sidebar-nav li a:hover {
+    cursor: pointer;
+    background-color: #008293;
+}
+
+.im-sidebar-brand {
+    height: 65px;
+    font-size: 24px;
+    padding: 15px 5px;
+}
+
+.im-content-nested {
+    padding-left: 125px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.im-panel {
+  border-color: #022b39;
+}
+.im-panel > .panel-heading {
+  color: white;
+  background-color: #008293;
+  border-color: #022b39;
+  font-weight: bold;
+ 
+}
+.im-panel > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #022b39;
+}
+.im-panel > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #022b39;
+}
+
+#tablePaymentTotal {
+    width: auto;
+    margin-bottom: 0px;
+}
+
+    #tablePaymentTotal th,
+    #tablePaymentTotal td {
+        padding: 2px 4px;
+    }
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+
+    .align-right {
+        float: none;
+    }
+}
